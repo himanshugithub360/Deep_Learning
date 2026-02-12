@@ -1,0 +1,6 @@
+*.log
+input/
+venv/
+# Ignore Jupyter Notebook checkpoints
+
+
