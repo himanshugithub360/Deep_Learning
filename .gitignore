@@ -2,6 +2,9 @@
 input/
 venv/
 # Ignore Jupyter Notebook checkpoints
-
-
+24_Functional_API/crop_part1
+24_Functional_API/UTKFace
+24_Functional_API/utkface_aligned_cropped
 Dataset/DogsVScat
+24_Functional_API/kaggle.json
+24_Functional_API/utkface-new.zip
